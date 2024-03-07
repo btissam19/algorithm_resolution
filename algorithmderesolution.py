@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
-
-
 import re
 def parse_formula_input(input_string):
     clauses_match = re.findall(r'\{(.*?)\}', input_string)
@@ -72,9 +66,6 @@ def test_resolution():
         return
 
 test_resolution()
-
-
-# In[ ]:
 
 
 
