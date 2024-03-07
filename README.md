@@ -34,4 +34,4 @@ Le script offre les fonctionnalités suivantes :
 5. Exécutez le script en utilisant la commande suivante :
 
    ```bash
-   python resolution_propositional_logic.py
+   python algorithmderesolution.py
