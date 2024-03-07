@@ -1,4 +1,4 @@
-# Méthode de Résolution pour la Logique Propositionnelle
+# Le principe de résolution 
 
 Ce script Python implémente la méthode de résolution pour la logique propositionnelle. La méthode de résolution est une technique fondamentale en démonstration automatisée de théorèmes et en intelligence artificielle pour déterminer la satisfiabilité d'une formule logique propositionnelle.
 
